@@ -6,6 +6,6 @@ body {
     color: white;
   }
 
-  #gray-text {
-    color: gray;
+  #navbar li{
+    list-style-type: none;
   }
