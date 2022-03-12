@@ -1,1 +1,1 @@
-alert(live);
+alert("it lives");
