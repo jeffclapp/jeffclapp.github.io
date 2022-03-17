@@ -1,1 +1,1 @@
-alert("it lives");
+alert("welcome to this page");
